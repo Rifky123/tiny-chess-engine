@@ -1,4 +1,7 @@
 makefun-keypair.json
-.makefun/
+.makefun/*
+!.makefun/owner.json
 tiny-chess-01-kit/
 *.tar.gz
+engine.py
+gta6-kit-dist/
